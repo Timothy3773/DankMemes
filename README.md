@@ -32,5 +32,5 @@
 <center><a href="https://timothy3773.github.io/DankMemes//DankMemes/index.html">Offical Site</a></center>
 
 <script>
-  document.getElementsByTagName('a').forEach(hr => hr.removeAttribute('text-decoration'))
+  document.getElementsByTagName('h1').forEach(hr => hr.removeAttribute('text-decoration'))
 </script>
