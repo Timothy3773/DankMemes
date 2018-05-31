@@ -1,0 +1,48 @@
+h1 {
+  font-size: 70px;
+  font-family: monospace;
+  color: rgb(255, 255, 255);
+  text-shadow: 0 0 7px rgb(255, 255, 255);
+  text-align: center;
+}
+
+body {
+  background-color: rgb(75, 75, 75);
+}
+p {
+  font-size: 50px;
+  font-family: monospace;
+  color: white;
+  text-shadow: 0 0 7px white;
+  text-align: center;
+}
+img {
+  inline-size: 400px;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 7px;
+  border-spacing: 10px;
+}
+
+hr {
+  box-shadow: 0 0 7px white;
+  border-color: white;
+}
+
+
+
+h2 {
+  font-family: monospace;
+  font-size: 60px;
+  color: white;
+  text-shadow: 0 0 7px white;
+  text-align: center;
+}
+
+sup {
+  text-transform: uppercase;
+    font-family: monospace;
+  color: white;
+  text-shadow: 0 0 7px white;
+}
+
