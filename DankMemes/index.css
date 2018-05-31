@@ -16,6 +16,17 @@ p {
   text-shadow: 0 0 7px white;
   text-align: center;
 }
+
+button {
+  font-family: monospace;
+  background-color: rgb(75, 75, 75);
+  font-size: 80px;
+  border-radius: 7px;
+  border-style: solid;
+  box-shadow: 0 0 7px white;
+  color: rgb(75, 75, 75);
+    text-shadow: 0 0 7px white;
+}
 img {
   inline-size: 400px;
   border: 1px solid white;
