@@ -22,7 +22,7 @@
     font-size: 80px;
     color: white;
     text-shadow: 0 0 7px white;
-    text-decoration: underline overline;
+
   }
 </style>
 
