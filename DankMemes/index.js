@@ -16,3 +16,7 @@
  *     ╚═════╝ ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝     ╚══════╝╚══════╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
  *                                                                                                          
  */
+ document.getElementById('continue').addEventListener('click', btn => {
+   document.getElementById('1check').hidden = true
+   document.getElementById('checker').hidden = false
+ })
