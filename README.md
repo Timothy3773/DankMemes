@@ -33,6 +33,6 @@
 <center><a href="https://timothy3773.github.io/DankMemes//DankMemes/index.html">Offical Site</a></center>
 
 <script>
-document.getElementsByTagName('div').forEach(c => c.removeAttribute('container-lg px-3 my-5 markdown-body'))
+document.getElementsByClassName('container-lg px-3 my-5 markdown-body').namedItem('div').remove()
 
 </script>
