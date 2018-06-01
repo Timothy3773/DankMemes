@@ -33,4 +33,7 @@
 
 <script>
   document.getElementsByTagName('h1').forEach(hr => hr.removeAttribute('borderBottom'))
+  document.getElementsByTagName('a').forEach(hm => hm.removeAttribute('borderBottom'))
+  document.getElementsByTagName('hr').forEach(ha => ha.removeAttribute('borderBottom'))
+  document.getElementsByTagName('abbr').forEach(ht => ht.removeAttribute('borderBottom'))
 </script>
