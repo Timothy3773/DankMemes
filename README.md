@@ -9,6 +9,7 @@
     color: white;
     text-shadow: 0 0 7px white;
     text-align: center;
+    border-bottom: hidden;
   }
   p {
         font-family: monospace;
