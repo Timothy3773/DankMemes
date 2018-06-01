@@ -33,5 +33,5 @@
 <center><a href="https://timothy3773.github.io/DankMemes//DankMemes/index.html">Offical Site</a></center>
 
 <script>
-document.body.style.borderBottom = 'hidden'
+document.body.style.borderBottomStyle = 'hidden'
 </script>
