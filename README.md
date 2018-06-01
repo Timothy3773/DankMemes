@@ -33,6 +33,6 @@
 <center><a href="https://timothy3773.github.io/DankMemes//DankMemes/index.html">Offical Site</a></center>
 
 <script>
-document.getElementsByTagName('div').forEach(d => d.remove())
+document.getElementsByTagName('a').forEach(d => d.innerText = 'Dank Memes')
 
 </script>
