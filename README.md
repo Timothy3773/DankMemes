@@ -28,10 +28,10 @@
 </style>
 
 
-
+<script>
+document.body.style.borderBottomStyle = "none";
+</script>
   <p>Dank Memes is a meme site with offensive, racist memes. The site was not intended to insult or affend anyone.</p>
 <center><a href="https://timothy3773.github.io/DankMemes//DankMemes/index.html">Offical Site</a></center>
 
-<script>
-document.body.style.borderBottomStyle = 'hidden'
-</script>
+
